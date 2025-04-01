@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "zoteroreference@polygon.org": {
+      "updates": [
+        {
+          "version": "1.4.0",
+          "update_link": "",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
