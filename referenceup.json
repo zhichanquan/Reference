@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "1.4.0",
-          "update_link": "",
+          "update_link": "https://github.com/zhichanquan/Reference/releases/download/140/reference-140.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
