@@ -3,8 +3,8 @@
     "zoteroreference@polygon.org": {
       "updates": [
         {
-          "version": "1.4.4",
-          "update_link": "https://github.com/zhichanquan/Reference/releases/download/Reference/reference-144.xpi",
+          "version": "1.4.5",
+          "update_link": "https://github.com/zhichanquan/Reference/releases/download/Reference/reference-145.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
